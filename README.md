@@ -3,7 +3,7 @@
 **Tags:** graphs, tables, spreadsheets, charts, forms, quotation engines, post, page  
 **Requires at least:** 3.0.1  
 **Tested up to:** 3.4  
-**Stable tag:** 1.0  
+**Stable tag:** 1.1  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -14,6 +14,13 @@ Lets you embed graphs, tables, spreadsheets, forms and quotation engines from th
 Drop graphs, tables, spreadsheet accounts, forms and custom quotation engines built in the Vixo spreadsheets into your WordPress pages.
 
 You users can maintain the underlying spreadsheets securely and your website updates automatically.
+
+Vixo next-generation spreadsheets have some features that make them easy to work with when embedded in WordPress sites:
+
+* you can also lock down the spreadsheets to a 'form' version so the users can't break anything
+* all changes to all cells in the spreadsheet are logged so you can work out who did what
+* you can control user permissions on spreadsheets simply so users can only change their data
+* you can build menus and other navigational tools in the spreadsheet to make it easier to deploy to the users
 
 ## Installation ##
 
@@ -88,10 +95,17 @@ Used [this web service](http://wordpress-markdown-to-github-markdown.com/) to sy
 
 ## Changelog ##
 
+### 1.1 ###
+Change to version no required to trigger an upgrade to the plugin repository
+on wordpress.org
+
 ### 1.0 ###
 Initial release.
 
 ## Upgrade Notice ##
+
+### 1.1 ###
+None
 
 ### 1.0 ###
 None
