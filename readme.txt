@@ -24,7 +24,7 @@ Vixo next-generation spreadsheets have some features that make them easy to work
 
 == Installation ==
 
-1. Upload `vixo-plugin-1.0.zip` to the `/wp-content/plugins/` directory
+1. Upload `vixo-plugin-1.1.zip` to the `/wp-content/plugins/` directory
 1. Unzip it
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Use the shortcode `[vixo url="http://example.com/some/page/"]`
@@ -95,17 +95,10 @@ Used [this web service](http://wordpress-markdown-to-github-markdown.com/) to sy
 
 == Changelog ==
 
-= 1.1 =
-Change to version no required to trigger an upgrade to the plugin repository
-on wordpress.org
-
 = 1.0 =
 Initial release.
 
 == Upgrade Notice ==
-
-= 1.1 =
-None
 
 = 1.0 =
 None
