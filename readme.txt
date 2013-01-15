@@ -3,7 +3,7 @@ Contributors: gordonguthrie
 Tags: graphs, tables, spreadsheets, charts, forms, quotation engines, post, page
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -94,6 +94,10 @@ Feel free to post any problems on the [issues log](https://github.com/hypernumbe
 Used [this web service](http://wordpress-markdown-to-github-markdown.com/) to synch the GitHub README.md with the WordPress readme.txt
 
 == Changelog ==
+
+= 1.2 =
+
+Turned off debugging by default
 
 = 1.0 =
 Initial release.
